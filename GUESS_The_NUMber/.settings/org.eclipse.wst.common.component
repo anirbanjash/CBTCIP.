@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="GUESS_The_NUMber">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="GUESS_The_NUMber"/>
+        <property name="java-output-path" value="/GUESS_The_NUMber/build/classes"/>
+    </wb-module>
+</project-modules>
